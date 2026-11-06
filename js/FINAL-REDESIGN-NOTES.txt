@@ -1,0 +1,16 @@
+KISSING TREE — FINAL MULTI-PAGE REDESIGN
+
+This is a complete visual redesign layer for the existing multi-page website.
+
+Pages redesigned: Home, About, Gallery, Amenities, Rates, Booking, Contact, FAQ & Rules, and Owner Desk.
+
+What changed:
+- Page-specific art direction and hero photography (not one repeated layout).
+- New responsive navigation with active-page state and a mobile menu.
+- Distinct layouts for story, photo gallery, amenities, pricing, booking, contact and FAQ pages.
+- Refined typography, spacing, cards, image treatments, forms and footer.
+- Existing page content, local assets, booking/admin scripts and form IDs are retained.
+
+Run locally: extract this folder, open it in VS Code, install/use Live Server, then open index.html.
+
+Before publishing: test every navigation item, gallery lightbox, booking form and owner desk workflow in your environment. Owner Desk is explicitly a demo/localStorage interface, not production-secure.

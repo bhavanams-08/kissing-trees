@@ -1,0 +1,10 @@
+KISSING TREE — FRESH WEBSITE CONCEPT
+
+This package replaces the prior visual concept with a new art direction and a completely different Unsplash image set. It keeps the existing page content, booking flow, admin code, and JavaScript functionality.
+
+Run locally: open this folder in VS Code and use Live Server on index.html.
+The new photo assets load from Unsplash CDN, so an internet connection is required.
+
+Pages included: Home, About, Gallery, Amenities, Rates, Booking, Contact, FAQ & Rules, Owner Desk.
+
+See IMAGE-SOURCES.txt for photo credits.

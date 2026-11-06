@@ -1,0 +1,22 @@
+KISSING TREE — IMAGE SOURCES
+
+The site now uses a completely new image set from Unsplash instead of the supplied reference-site property photographs. Images are loaded from images.unsplash.com, so an internet connection is needed to display them. Unsplash photo pages / creators:
+
+- Giri — https://unsplash.com/photos/small-stone-building-with-tiled-roof-surrounded-by-greenery-KTm2sW1dIg8
+- Sweety Coutinho — https://unsplash.com/photos/a-rustic-house-surrounded-by-lush-tropical-trees-2zie8x6ONXM
+- Mohnish Landge — https://unsplash.com/photos/a-small-hut-with-a-thatched-roof-in-the-woods-4PNwR14zTJs
+- Mohammed Nabeel — https://unsplash.com/photos/a-house-in-the-middle-of-a-tea-plantation-Nd5E56KUnoc
+- Zoshua Colah — https://unsplash.com/photos/lush-green-pathway-through-a-tropical-garden-NgJMXoPoDmg
+- Clay Banks — https://unsplash.com/photos/cozy-living-room-with-wood-stove-and-sofa-wluBK3L6bl0
+- Ela De Pure — https://unsplash.com/photos/elegant-modern-bathroom-with-natural-accents-and-plants-HIu7A27ptE0
+- Pratik Dugam — https://unsplash.com/photos/calm-lake-surrounded-by-forested-hills-at-sunrise-oZD4jufjOus
+- ANGIE BAONGOC — https://unsplash.com/photos/a-cozy-rustic-room-filled-with-natural-light-and-plants-EsgrxenYvSs
+- Clay Banks — https://unsplash.com/photos/a-wooden-table-and-chairs-in-a-room-Uoh1UV2cAEs
+- Archee Lal — https://unsplash.com/photos/warm-light-illuminates-a-bedroom-with-a-bed-and-plant-hkCXcR2mcds
+- Clay Banks — https://unsplash.com/photos/bedroom-with-white-bed-stacked-books-and-ornate-wooden-dresser-Bpaie4LlJSY
+- Clay Banks — https://unsplash.com/photos/a-bed-sitting-in-a-bedroom-next-to-two-windows-_sdO0PgdgFw
+- Dorin Mottaghi — https://unsplash.com/photos/a-bedroom-with-a-bed-plants-and-a-window-djpneQoCfnU
+- Isidore Decamon — https://unsplash.com/photos/a-bedroom-with-a-bed-shelves-and-a-plant-l6m1qfobbdI
+- Julio Samudra — https://unsplash.com/photos/a-bathroom-with-a-skylight-and-a-tiled-floor-ai00RbdnoY4
+
+Images are used under the Unsplash License. Verify each asset and license before commercial publication.
